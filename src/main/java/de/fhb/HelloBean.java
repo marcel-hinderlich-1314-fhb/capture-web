@@ -20,7 +20,7 @@ import java.net.URLConnection;
 @SessionScoped
 public class HelloBean implements Serializable {
 	
-	String url = "http://localhost:3000/?url=www.google.co";
+	String url = "http://localhost:3000/?url=www.google.com";
 	
 	BufferedImage image;
 	StreamedContent content;
